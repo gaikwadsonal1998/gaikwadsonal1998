@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaikwadsonal1998
+- 👋 Hi, I’m Gaikwad Sonal Baban
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on the different technologies including MVC, WebAPI,Angular,C#
